@@ -12,7 +12,7 @@ The goal is to predict whether it will rain the next day (`RainTomorrow`) based 
 
 ## Contents
 
-- `weather_prediction.py` — Complete Python script including:
+- `Wether.ipynb` — Complete Python script including:
   - Loading and inspecting the dataset
   - Handling missing values and duplicates
   - Feature selection and encoding
